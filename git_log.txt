@@ -1,0 +1,13 @@
+*   35e2d3e (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from Brynv15/feature-about-me
+|\  
+| * 501620a (origin/feature-about-me, feature-about-me) feature-about-me: add about-me content to index.html
+|/  
+* f37cdce (upstream/main, upstream/HEAD) Replicate assignment-1 index
+*   2221a86 Merge pull request #1 from JValenzuela1/feature-about-me
+|\  
+| | * 36c86ba (upstream/feature-about-me) Setup index for groupmate
+| |/  
+| * bad1d21  Please enter the commit message for your changes. Lines starting
+| * 740ccd1 Adding an index template for students
+|/  
+* 7790057 first commit
